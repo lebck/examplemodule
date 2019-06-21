@@ -1,1 +1,1 @@
-module github.com/lebck/go-example-module
+module github.com/lebck/examplemodule
